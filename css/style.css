@@ -481,7 +481,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: #000000; /*color de main menú*/
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
@@ -500,7 +500,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #0078ff;
+  color: #000000; /*color del logo*/
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
